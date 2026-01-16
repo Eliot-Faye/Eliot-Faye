@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Eliot
 # 💫 About Me:
 🎓 Computer Science student at University of Bath   
-🌱 I’m currently learning: DSA, Neural Nets, C++  
+🌱 I’m currently learning: C++, Neural Networks, C#, Unity 
 
 ## 📲 Reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Eliot-Faye) 
